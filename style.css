@@ -1,0 +1,10 @@
+.texte1 {
+    position:absolute;
+    top:51px;
+    width:600px;
+    height:400px;
+    z-index:2;
+    font-size:200%;
+    color: rgb(226, 0, 0);
+    right:267px;
+}
